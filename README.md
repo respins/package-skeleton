@@ -3,11 +3,6 @@
 
 # Main backend package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/respins/basic-spins.svg?style=flat-square)](https://packagist.org/packages/respins/basic-spins)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/respins/basic-spins/run-tests?label=tests)](https://github.com/respins/basic-spins/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/respins/basic-spins/Check%20&%20fix%20styling?label=code%20style)](https://github.com/respins/basic-spins/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/respins/basic-spins.svg?style=flat-square)](https://packagist.org/packages/respins/basic-spins)
-
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
 
 ## Support us
