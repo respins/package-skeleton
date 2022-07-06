@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Respins\BasicSpins\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class BasicSpinsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'basic-spins';
 
     public $description = 'My command';
 
